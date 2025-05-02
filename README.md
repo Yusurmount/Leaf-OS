@@ -2,7 +2,7 @@
 # Leaf-OS 1
 一个基于PPT制作的UI界面
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Version](https://img.shields.io/badge/version-Preview-yellow) ![Build Status](https://img.shields.io/badge/build-in%20progress-yellow)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Version](https://img.shields.io/badge/version-beta-blue) ![Build Status](https://img.shields.io/badge/build-in%20progress-yellow)
 ![Support status](https://img.shields.io/badge/support%20and%20maintenance-Terminated-red)
 
 ## 项目简介
