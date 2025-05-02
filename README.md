@@ -1,36 +1,15 @@
-# Leaf-OS
+
+# Leaf-OS 1
 一个基于PPT制作的UI界面
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Version](https://img.shields.io/badge/version-Preview-yellow) ![Build Status](https://img.shields.io/badge/build-in%20progress-yellow)
-
+![Support status](https://img.shields.io/badge/support%20and%20maintenance-Terminated-red)
 
 ## 项目简介
 Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通过 PPT 的交互功能模拟操作系统的用户体验。
 它包含多个界面组件和交互逻辑，展示了如何利用 PPT 创造出类似操作系统的视觉和交互效果。
 
-## 项目结构
-这是Leaf OS 的文件结构基于 PPTX 文件的内部结构。解压后的文件夹包含以下主要部分：
-
-• `_rels`文件夹：存储文件之间的关系信息。
-
-• `ppt`文件夹：包含所有幻灯片、母版、布局、媒体文件等。
-
-• `slides`文件夹：每个幻灯片的 XML 文件。
-
-• `media`文件夹：存储图片、图标等媒体资源。
-
-• `theme`文件夹：存储主题样式信息。
-
-• `[Content_Types].xml`：定义文件中不同部分的 MIME 类型。
-
-
-## 功能特点
-
-• 模拟操作系统界面：Leaf OS 包含多个模拟的系统界面，如桌面、任务栏、开始菜单、窗口等。
-• 交互功能：通过 PPT 的超链接和动作按钮，实现了界面之间的跳转和交互。
-• 自定义主题：支持自定义主题颜色和字体，可以根据需求调整界面风格。
-• 可扩展性：可以通过添加新的幻灯片和组件，进一步扩展系统的功能。
-
+### 维护已于2022年12月终止，不建议使用
 
 ## 使用方法
 ### 法一
@@ -53,8 +32,6 @@ Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通
 ## 开源协议
 
 该项目采用 [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE) 许可证。
-
-
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
