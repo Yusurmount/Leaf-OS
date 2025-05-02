@@ -1,5 +1,5 @@
 
-# Leaf-OS 1
+# Leaf-OS 4
 一个基于PPT制作的UI界面
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Version](https://img.shields.io/badge/version-beta-blue)
@@ -10,7 +10,7 @@
 Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通过 PPT 的交互功能模拟操作系统的用户体验。
 它包含多个界面组件和交互逻辑，展示了如何利用 PPT 创造出类似操作系统的视觉和交互效果。
 
-### 维护已于2022年12月终止，不建议使用
+### 维护已于2024年9月终止，不建议使用
 
 ## 使用方法
 ### 法一
