@@ -4,7 +4,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![Version](https://img.shields.io/badge/version-beta-blue)
 ![Support status](https://img.shields.io/badge/support%20and%20maintenance-Terminated-red)
-![Support time](https://img.shields.io/badge/maintenance%20period-1Years-white)
+![Support time](https://img.shields.io/badge/maintenance%20period-1%20Year-white)
 
 ## 项目简介
 Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通过 PPT 的交互功能模拟操作系统的用户体验。
