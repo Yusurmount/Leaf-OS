@@ -26,7 +26,7 @@ Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通
 ## 开源协议
 
 该项目采用 [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE) 许可证。
-> (许可证官方链接)[http://creativecommons.org/licenses/by-nc-sa/4.0/]
+> [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ## 联系方式
