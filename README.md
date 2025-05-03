@@ -18,10 +18,7 @@ Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通
 • Microsoft PowerPoint：用于创建和开发 PPT 文件。（需2016 版本以上）
 > 不要使用WPS
 
-## 界面预览
-![登录界面](rm/login.png "登录界面") \
-![主界面](rm/main.png "主界面") \
-![关于界面](rm/about.png "关于界面") 
+
 
 ## 开源协议
 
