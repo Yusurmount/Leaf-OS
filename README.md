@@ -1,6 +1,6 @@
-![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]
-![Version](https://img.shields.io/badge/version-beta-blue) \
-![Support time](https://img.shields.io/badge/Termination%20of%20maintenance%20time-2025.6.1-white)
+![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]\
+![Version](https://img.shields.io/badge/版本-beta-blue) \
+![Support time](https://img.shields.io/badge/终止维护日期-2025.6.1-white)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
