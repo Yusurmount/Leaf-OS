@@ -40,15 +40,17 @@ Leaf OS 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通
 
 ## 联系方式
 
-• 作者：雨夌、Yusurmount、Yuling （同一人）
+• 作者author：小沈（化名）
 
-• 邮箱：yusurmount@qq.com
+• 昵称Nickname：雨夌、Yusurmount、Yuling （同一人）
 
-• GitHub：Yusurmount（雨夌）
+• 邮箱Email：yusurmount@qq.com
+
+• GitHub：[Yusurmount（雨夌）](https://github.com/Yusurmount/)
 
 • 抖音：雨夌（ID：Yusurmount）
 
-
+© 2025 雨夌 版权所有
 ---
 
 
