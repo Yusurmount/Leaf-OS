@@ -7,6 +7,8 @@
 > ### :warning: 自从1.2.2版本起，ppt文件启用了宏功能，请确保在使用前在Office软件内允许所有的宏和ActiveX控件。
 > ### 由于项目开始使用宏开发，维护时期延长至2025年8月1日。
 
+---
+
 # Leaf OS NEXT 
 Leaf OS NEXT是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通过 PPT 的交互功能模拟操作系统的用户体验。
 它包含多个界面组件和交互逻辑，展示了如何利用 PPT 创造出类似操作系统的视觉和交互效果。
@@ -49,6 +51,8 @@ Leaf OS NEXT是一个基于 PowerPoint 制作的虚拟操作系统界面，旨�
 • 抖音：[雨夌（ID：Yusurmount）](https://v.douyin.com/m72B2TMKGeQ/)
 
 ---
+
 ## 版权声明
 © 2025 雨夌 版权所有
+
 ---
