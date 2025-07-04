@@ -5,7 +5,8 @@
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 > ### :warning: 自从1.2.2版本起，ppt文件启用了宏功能，请确保在使用前在Office软件内允许所有的宏和ActiveX控件。
-> ### 由于项目开始使用宏开发，维护时期延长至2025年8月1日。
+> ### ~~由于项目开始使用宏开发，维护时期延长至2025年8月1日。~~
+> 此版本已终止维护（2025.7.4），更新服务器将不再可用
 
 ---
 
