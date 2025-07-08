@@ -62,8 +62,10 @@ Leaf OS 5是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 • 抖音：[雨夌（ID：Yusurmount）](https://v.douyin.com/m72B2TMKGeQ/)
 
 ---
+
 雨夌：UI界面、设计规范、动画效果
 玄鸥_HYO：新图标、动画效果、技术支持
+
 ---
 
 ## 版权声明
