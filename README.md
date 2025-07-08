@@ -20,7 +20,6 @@ Leaf OS 5是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 • 直接从发行版或“源码”下载使用
 
 
-
 ## 开发工具
 
 • Microsoft PowerPoint：用于开发和使用 PPT 文件。（需2019或以上版本）
@@ -39,7 +38,7 @@ Leaf OS 5是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 
 该项目采用 [Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE) 许可证。
 
-> [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> [官方链接](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### 协议摘要
 
@@ -49,11 +48,12 @@ Leaf OS 5是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 
 ---
 
-## 开发、制作与贡献者
+## 项目参与者
 
-• 作者：雨夌、Yusurmount、Yuling （同一人）
+• 主创者：雨夌（Yusurmount、Yuling）
 
-• 贡献者：玄鸥
+• 贡献者：玄鸥_HYO
+
 
 ## 联系我
 
@@ -62,9 +62,11 @@ Leaf OS 5是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 • 抖音：[雨夌（ID：Yusurmount）](https://v.douyin.com/m72B2TMKGeQ/)
 
 ---
+雨夌：UI界面、设计规范、动画效果
+玄鸥_HYO：新图标、动画效果、技术支持
+---
 
 ## 版权声明
 
 © 2025 雨夌 版权所有
 
----
