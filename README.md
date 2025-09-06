@@ -1,5 +1,5 @@
 ![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]  
-![Version](https://img.shields.io/badge/版本-Preview-yellow)  
+![Version](https://img.shields.io/badge/版本-beta-blue)  
 ![Support time](https://img.shields.io/badge/终止维护日期-未定-white)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/  
@@ -8,7 +8,7 @@
 # Leaf OS 5.0
 
 Leaf OS 5 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在通过 PPT 的交互功能模拟操作系统的用户体验。  
-> **正在开发中，非完整作品**
+> **Beta开发中，非完整作品**
 
 ---
 
@@ -46,12 +46,6 @@ Leaf OS 5 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 
 ---
 
-## 项目参与者
-
-- **主创者**：雨夌（Yusurmount、Yuling）
-- **贡献者**：玄鸥_HYO
-
----
 
 ## 贡献
 
@@ -66,6 +60,16 @@ Leaf OS 5 是一个基于 PowerPoint 制作的虚拟操作系统界面，旨在�
 - **抖音**：[雨夌（ID：Yusurmount）](https://v.douyin.com/m72B2TMKGeQ/)
 
 ---
+
+## 原创声明
+Leaf OS 已经在**WARFR | PPT 作品原创信息登记系统**登记
+作品名称：Leaf OS
+作者/工作室：雨夌
+登记用户：Yusurmount
+登记号：OIC-2025080041
+立项时间：2022年02月18日
+登记时间：2025年08月22日
+
 
 ## 版权声明
 
